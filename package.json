@@ -1,0 +1,27 @@
+{
+  "name": "vaxal",
+  "version": "1.0.0",
+  "description": "A discord bot for everything",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoocaloopis/Vaxal.git"
+  },
+  "author": "Nathan/Physx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shoocaloopis/Vaxal/issues"
+  },
+  "homepage": "https://github.com/Shoocaloopis/Vaxal#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "google": "^2.1.0",
+    "google-images": "^2.1.0",
+    "images": "^3.2.3",
+    "node-fetch": "^2.6.1"
+  }
+}
